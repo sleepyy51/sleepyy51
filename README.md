@@ -1,4 +1,4 @@
-# 🌌 About Me:
+### 🌌 About Me:
 2nd year student at Instituto Tecnologico de la Laguna <br>
 ![image alt](https://github.com/SleepyyDash/SleepyyDash/blob/b4cb188ed389699fd00bb6e4982c827f2cd29a5e/ITL.png) <br>
 Learning C++ and Java<br>
