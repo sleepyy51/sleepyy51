@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm second year student at Instituto Tecnologico de la Laguna trying to become a Software Engenieer.<br>I like to learn new technologies and competitive programming.</p>
+<p align="left">I'm second year student at Instituto Tecnologico de la Laguna trying to become a Software Engineer.<br>I like to learn new technologies and competitive programming.</p>
 
 ###
 
