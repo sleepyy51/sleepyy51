@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, aspiring Software architect here!</h1>
+<h1 align="center">Hi, aspiring Software Architect here!</h1>
 
 ###
 
