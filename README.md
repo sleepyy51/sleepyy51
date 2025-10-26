@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, aspiring Software Architect here!</h1>
+<h1 align="center">Hi, aspiring Software architect here!</h1>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I like to compete against my peers in programming.</p>
+<p align="left">I like to compete against my peers in competitive programming. I'm very passionate about the ICPC</p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm second year student at Instituto Tecnologico de la Laguna trying to become a Software Engineer.<br>I like to learn new technologies and competitive programming.</p>
+<p align="left">Currently I'm a second year student at Instituto Tecnologico de la Laguna trying to become a Junior Software Engineer<br>I like to learn new technologies and most of all I like to work on real world projects.</p>
 
 ###
 
